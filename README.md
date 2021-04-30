@@ -5,6 +5,6 @@ note: *Styled for mobile footprints, does not look amazing on desktops*
 
 url: https://anthonymerante-chatapp.herokuapp.com/
 
-	![login screen](ReadMeImages/Login Screen.PNG)
+  ![login screen](ReadMeImages/loginscreen.PNG)
   ![Who is on](ReadMeImages/whoison.PNG)
   ![Chatting app](ReadMeImages/chatting.PNG)
