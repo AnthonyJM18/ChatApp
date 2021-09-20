@@ -1,5 +1,5 @@
 # ChatApp
-Javascript Mobile (PWA) Chatt app. Uses node for the server, and react for the frontend.
+Javascript Mobile (PWA) Chat app. Uses node for the server, and react for the frontend.
 
 note: *Styled for mobile footprints, does not look amazing on desktops*
 
